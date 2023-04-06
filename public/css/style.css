@@ -1,0 +1,13 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+   }
+.container {
+    width: 964px;
+    height: 496px;
+    background-color :red;
+    margin: auto;
+    
+}
